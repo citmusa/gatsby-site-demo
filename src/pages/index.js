@@ -10,7 +10,7 @@ const IndexPage = () => (
     <SEO title="Home" />
     <h1>Hi people</h1>
     <p>Welcome to this new Gatsby site.</p>
-    <p>We will be customizing this shortly. At the moment this page is living here: [https://citmusa-gatsby01.netlify.com/]</p>
+    <p>We will be customizing this shortly. At the moment this page is living here: <a href="https://citmusa-gatsby01.netlify.com" target="_blank">https://citmusa-gatsby01.netlify.com</a></p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
