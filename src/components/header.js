@@ -2,6 +2,9 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 
+import glogo from '../images/gatsby-icon.png'
+// import images, videos, svg like this
+
 const Header = ({ siteTitle }) => (
   <header
     style={{
@@ -24,7 +27,10 @@ const Header = ({ siteTitle }) => (
             textDecoration: `none`,
           }}
         >
-          {siteTitle}
+          <img style={
+            {width: '100px'}            
+          } src={glogo} alt="hello" />
+
         </Link>
       </h1>
     </div>
