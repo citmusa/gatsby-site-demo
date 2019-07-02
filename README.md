@@ -1,6 +1,9 @@
 # gatsby-site-demo
 I'm going to test how to use gatsby here :)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4da6e6be-ab0b-467a-b4a9-2a92fff0e367/deploy-status)](https://app.netlify.com/sites/citmusa-gatsby01/deploys)
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
